@@ -1,0 +1,15 @@
+    1  mkdir ~/week1
+    2  cd ~/week1
+    3  touch ex1.txt
+    4  ls /usr/bin | grep "gcc" | sort -r | tail > ex1.txt
+    5  gcc
+    6  sudo apt install gcc
+    7  sudo apt-update
+    8  update
+    9  sudo apt install
+   10  sudo apt install gcc
+   11  sudo apt-get update
+   12  sudo apt install gcc
+   13  ls /usr/bin | grep "gcc" | sort -r | tail > ex1.txt
+   14  touch ex2.txt
+   15  history > ex2.txt

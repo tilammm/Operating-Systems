@@ -1,0 +1,10 @@
+gcc-ranlib-7
+gcc-ranlib
+gcc-nm-7
+gcc-nm
+gcc-ar-7
+gcc-ar
+gcc-7
+gcc
+c99-gcc
+c89-gcc
