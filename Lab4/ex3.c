@@ -3,16 +3,16 @@
 #include <unistd.h>
 #define TRUE 1
 void type_prompt() {
-printf("> ");
+  printf("> ");
 }
 void read_command(char *command) {
-scanf("%s", command);
+   scanf("%s", command);
 }
 int main(void) {
- char command[10];
-while (TRUE) {
-type_prompt();
-read_command(command);
-system(command);
-}
+   char command[10];
+   while (TRUE) {
+   type_prompt();
+   read_command(command);
+   system(command);
+ }
 }
