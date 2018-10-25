@@ -1,0 +1,3 @@
+660 means that Owner and group have permission on read and write, others have not
+775 means that Owner and group have all permissions, other only on read and write
+777 means all permissions for all   
