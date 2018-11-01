@@ -1,0 +1,1 @@
+The difference in output is due to the fact that the string buffer prints when it encounters "/ n". Therefore, in the first case, the program prints "Hello", then "/ n", and then again the same thing, and in the second case, prints "Hello", and then prints "/ n" twice
